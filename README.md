@@ -5,7 +5,7 @@
 
 </div>
 
-A curated list of awesome AI agents and autonomous systems for medical applications, including research papers, tools, and resources.
+A comprehensive repository of state-of-the-art AI agents and autonomous systems tailored for medical applications. This collection encompasses cutting-edge research papers, advanced tools, and valuable resources, aiming to foster innovation and interdisciplinary collaboration in the field of AI-driven medicine.
 
 ## 🩺 Paper lists for AI Agents for Medicine
 
@@ -21,8 +21,6 @@ A curated list of awesome AI agents and autonomous systems for medical applicati
 
 
 ## 🛠️ Tools and Frameworks
-
-### 💻 Development Tools
 - **[LangChain](https://github.com/hwchase17/langchain)** - A framework for building applications powered by large language models (LLMs). It provides tools for chaining LLMs with other components, such as memory, tools, and agents, to create complex workflows.
 
 
