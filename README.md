@@ -1,5 +1,9 @@
 # 🤖 Awesome Agents for Medicine
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+![Awesome](https://awesome.re/badge.svg) [![commit](https://img.shields.io/github/last-commit/LijunRio/Awesome-Agents-for-Medicine?color=blue)](https://github.com/LijunRio/Awesome-Agents-for-Medicine/commits/main) [![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/LijunRio/Awesome-Agents-for-Medicine/pulls)
+
+</div>
 
 A curated list of awesome AI agents and autonomous systems for medical applications, including research papers, tools, and resources.
 
