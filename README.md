@@ -19,8 +19,11 @@ A comprehensive repository of state-of-the-art AI agents and autonomous systems 
 | [MAGDA: Multi-agent guideline-driven diagnostic assistance](https://arxiv.org/pdf/2409.06351) <br> _Preprint (arXiv 2409.06351)_ | CheXpert, ChestX-ray14 | Mixtral 8x7B Instruct, GPT-4, Llama 2 70B Chat, CLIP (BioVil-T version) | <details><summary>View Insights</summary>- Introduces MAGDA: multi-agent LLM system guided by clinical guidelines for zero-shot medical image diagnosis <br> - Combines CLIP (BioVil-T) with three agents for image screening, reasoning, and refinement <br> - Beats CheXzero and Xplainer on CheXpert and ChestX-ray14 Longtail, especially for rare diseases <br> - Uses Mixtral 8x7B Instruct as backbone; shows solid performance vs. GPT-4 and Llama 2 with lower resource cost </details> |
 | [Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology](https://www.nature.com/articles/s43018-025-00991-6) <br> _Nature Cancer June 2025_ | 20 realistic multimodal patient cases |  |
 | [An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](https://arxiv.org/pdf/2506.20430) <br> _Preprint (arXiv 2506.20430)_ |  |  | <details><summary>View Insights</summary>- Proposes an agentic system for diagnosing rare diseases with traceable reasoning <br> - Focuses on enhancing transparency and reproducibility in medical AI systems <br> - Demonstrates potential for improving diagnostic accuracy in rare disease cases </details> |
+| [GeneAgent: self-verification language agent for gene-set analysis using domain databases](https://www.nature.com/articles/s41592-025-02748-6) <br> _Nature Methods July 2025_ |  |  |  |
 
 
+# Dtaset
+- [MC-MED, multimodal clinical monitoring in the emergency department](https://www.nature.com/articles/s41597-025-05419-5) Nature Scientific data
 
 
 
