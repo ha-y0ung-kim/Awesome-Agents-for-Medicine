@@ -20,9 +20,12 @@ A comprehensive repository of state-of-the-art AI agents and autonomous systems 
 | [Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology](https://www.nature.com/articles/s43018-025-00991-6) <br> _Nature Cancer June 2025_ | 20 realistic multimodal patient cases |  |
 | [An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](https://arxiv.org/pdf/2506.20430) <br> _Preprint (arXiv 2506.20430)_ |  |  | <details><summary>View Insights</summary>- Proposes an agentic system for diagnosing rare diseases with traceable reasoning <br> - Focuses on enhancing transparency and reproducibility in medical AI systems <br> - Demonstrates potential for improving diagnostic accuracy in rare disease cases </details> |
 | [GeneAgent: self-verification language agent for gene-set analysis using domain databases](https://www.nature.com/articles/s41592-025-02748-6) <br> _Nature Methods July 2025_ |  |  |  |
+| [MedOrch: Medical diagnosis with tool-augmented reasoning agents for flexible Extensibility](https://arxiv.org/pdf/2506.00235) <br> _Preprint (arXiv 2506.00235)_ | ADNI, MIMIC-CXR, EHRXQA | GPT-4o | <details><summary>View Insights</summary> - goal-driven multimodal integration <br> - visibility into reasoning trajectory </details> |
+| [BioDiscoveryAgent: An AI agent for designing genetic perturbation experiments](https://openreview.net/pdf?id=HAwZGLcye3) <br> _ICLR 2025_ |  | Claude v1, Claude 3 Haiku, Claude 3 Sonnet, Claude 3 Opus, Claude 3.5 Sonnet, GPT-3.5-Turbo, GPT-4o, o1-mini, o1-preview | <details><summary>View Insights</summary> <br> - design of genetic perturbation experiments -  </details> |
+| [KGARevion: An AI agent for knowledge-intensive biomedical QA](https://openreview.net/pdf?id=tnB94WQGrn) <br> _ICLR 2025_ | MMLU-Med, MedQA-US, PubMedQA, BioASQ-Y/N | LLaMA3-8B, LLaMA3.1-8B, GPT-4-Turbo | <details><summary>View Insights</summary> Knowledge graph-based LLM agent for biomedical QA <br> - grounding through generated knowledge graph triplets </details> |
 
 
-# Dtaset
+# Dataset
 - [MC-MED, multimodal clinical monitoring in the emergency department](https://www.nature.com/articles/s41597-025-05419-5) Nature Scientific data
 
 
