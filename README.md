@@ -29,7 +29,11 @@ A comprehensive repository of state-of-the-art AI agents and autonomous systems 
 
 
 ## 🛠️ Tools and Frameworks
+
 - **[LangChain](https://github.com/hwchase17/langchain)** - A framework for building applications powered by large language models (LLMs). It provides tools for chaining LLMs with other components, such as memory, tools, and agents, to create complex workflows.
+- **[Ollama](https://github.com/ollama/ollama)** - A platform for deploying and managing LLMs with a focus on simplicity and scalability.
+- **[Open WebUI](https://docs.openwebui.com/)** - An open-source web-based user interface for interacting with AI models and tools.
+
 
 
 ## 🤝 Contributing
