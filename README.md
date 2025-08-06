@@ -29,6 +29,11 @@ A comprehensive repository of state-of-the-art AI agents and autonomous systems 
 - [MC-MED, multimodal clinical monitoring in the emergency department](https://www.nature.com/articles/s41597-025-05419-5) Nature Scientific data
 
 
+## 🛡️ Paper lists for LLM Safety in Medicine
+| Paper | Datasets | Base Models | Key Insights |
+|-------|----------|-------------|--------------|
+| [Beyond Benchmarks: Dynamic, Automatic, and Systematic Red-Teaming Agents for Trustworthy Medical Language Models](https://www.arxiv.org/pdf/2508.00923) | N/A | N/A | N/A |
+| [Prompt Injection Attacks on Vision-Language Models in Oncology](https://www.nature.com/articles/s41467-024-55631-x) | N/A | N/A | N/A |
 
 
 ## 🛠️ Tools and Frameworks
