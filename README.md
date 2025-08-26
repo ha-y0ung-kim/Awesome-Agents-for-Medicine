@@ -29,10 +29,19 @@ A comprehensive repository of state-of-the-art AI agents and autonomous systems 
 - [MC-MED, multimodal clinical monitoring in the emergency department](https://www.nature.com/articles/s41597-025-05419-5) Nature Scientific data
 
 
+## 🛡️ Paper lists for LLM Safety in Medicine
+| Paper | Datasets | Base Models | Key Insights |
+|-------|----------|-------------|--------------|
+| [Beyond Benchmarks: Dynamic, Automatic, and Systematic Red-Teaming Agents for Trustworthy Medical Language Models](https://www.arxiv.org/pdf/2508.00923) | N/A | N/A | N/A |
+| [Prompt Injection Attacks on Vision-Language Models in Oncology](https://www.nature.com/articles/s41467-024-55631-x) | N/A | N/A | N/A |
 
 
 ## 🛠️ Tools and Frameworks
+
 - **[LangChain](https://github.com/hwchase17/langchain)** - A framework for building applications powered by large language models (LLMs). It provides tools for chaining LLMs with other components, such as memory, tools, and agents, to create complex workflows.
+- **[Ollama](https://github.com/ollama/ollama)** - A platform for deploying and managing LLMs with a focus on simplicity and scalability.
+- **[Open WebUI](https://docs.openwebui.com/)** - An open-source web-based user interface for interacting with AI models and tools.
+
 
 
 ## 🤝 Contributing
